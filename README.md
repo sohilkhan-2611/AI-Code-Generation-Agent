@@ -25,8 +25,10 @@ Backed by `anthropic/claude-3.5-sonnet` and strong, OWASP-aligned prompting, itâ
 
 ### Setup
 ```bash
-git clone https://github.com/<your-org>/ai_code_gen_agent.git
-cd ai_code_gen_agent
+git clone https://github.com/<your-org>/AI-Code-Generation-Agent
+.git
+cd AI-Code-Generation-Agent
+
 
 # (optional) create a virtual environment
 python -m venv .venv
