@@ -1,4 +1,4 @@
-# 🤖 AI_CODE_GEN_AGENT
+# 🤖 AI-Code-Generation-Agent
 
 Security-aware AI code generation powered by Claude 3.5 Sonnet (via OpenRouter). Generates production-quality code, explanations, unit tests, and an optional security report.
 
@@ -6,7 +6,7 @@ Security-aware AI code generation powered by Claude 3.5 Sonnet (via OpenRouter).
 
 ## 📋 Introduction
 
-AI_CODE_GEN_AGENT is a Python tool that turns natural-language problem statements into:
+AI-Code-Generation-Agent is a Python tool that turns natural-language problem statements into:
 - Secure, production-quality implementations
 - Clear algorithmic explanations with time/space complexity
 - Optional unit tests and edge cases
